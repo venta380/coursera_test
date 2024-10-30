@@ -1,0 +1,22 @@
+{
+    "13": {
+        "12_NA14634": "Normal sample",
+        "11_NA14624": "Normal sample",
+        "9_NA14090": "Normal sample",
+        "16_252LG": "Normal sample",
+        "13_NA14639": "Normal sample",
+        "15_NA14626": "Normal sample",
+        "10_NA14094": "Normal sample",
+        "14_NA13710": "Normal sample"
+    },
+    "17": {
+        "12_NA14634": "Normal sample",
+        "11_NA14624": "Normal sample",
+        "9_NA14090": "Normal sample",
+        "16_252LG": "Normal sample",
+        "13_NA14639": "Normal sample",
+        "15_NA14626": "CNV Detected but not identified",
+        "10_NA14094": "Normal sample",
+        "14_NA13710": "Normal sample"
+    }
+}
